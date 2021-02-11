@@ -1,5 +1,7 @@
 package additionalMD.carMD;
 
+//do not use latvian acronyms and capital letter in package name
+//move your homework to packages like homework3, homework4 etc.
 public class CarTest {
     public static void main(String[] args) {
         Car newCar = new Car();

@@ -1,7 +1,9 @@
 package additionalMD.carMD;
 
-import java.awt.*;
+import java.awt.*;   //unused import - remove
 
+//do not use latvian acronyms and capital letter in package name
+//move your homework to packages like homework3, homework4 etc.
 public class Car {
     public String color;
     public String manufacturer;

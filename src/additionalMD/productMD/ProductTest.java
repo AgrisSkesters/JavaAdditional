@@ -1,5 +1,6 @@
 package additionalMD.productMD;
 
+//move your homework to packages like homework3, homework4 etc.
 public class ProductTest {
     public static void main(String[] args) {
         Product newProduct = new Product();
